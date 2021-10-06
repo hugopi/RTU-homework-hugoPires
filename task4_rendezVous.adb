@@ -17,6 +17,8 @@ procedure Task4_Rendezvous is
    G : Generator;
    X : hundred;
 
+   rowIndex : integer;
+
 
 
 
@@ -34,15 +36,17 @@ procedure Task4_Rendezvous is
    -- task area ---
 
 
+
+
    task MaxElementInRow is
-      entry findMax(rowIndex : integer; max : out Integer);
+      entry findMax(  rowIndex : Integer;max : out Integer);
    end MaxElementInRow;
 
    task body MaxElementInRow is
-      --max : Integer := 0;
       i : Integer;
    begin
-      accept findMax(rowIndex : integer; max : out Integer)  do
+      accept findMax( rowIndex : Integer; max : out Integer)  do
+
          max :=0;
          i := rowIndex;
          for j in 0..m loop
@@ -60,20 +64,28 @@ procedure Task4_Rendezvous is
 
 
    task ListOfRows is
-      entry showMax;
+      entry showMax ;
+      entry sendIndex(rowIndex : out integer); --a continuer--
    end ListOfRows;
 
    task body ListOfRows is
       max : integer;
    begin
-      accept showMax  do
-         MaxElementInRow.findMax(3,max);
-         put("this is tha max : ");
-         put(max);
-
-      end showMax;
+      select
+         accept showMax  do
+            MaxElementInRow.findMax(3,max);
+            put("this is tha max : ");
+            put(max);
+         end showMax;
+      or
+         accept sendIndex(rowIndex : out integer) do
+            rowIndex := 3;
+         end sendIndex;
+      end select;
    end ListOfRows;
 
+   
+   
 
    -- main begin--
 
@@ -96,6 +108,8 @@ begin
    --instruction area--
    affichageMatrice;
    New_Line;
+   --ListOfRows.sendIndex(rowIndex);
    ListOfRows.showMax;
 
 end Task4_Rendezvous;
+
