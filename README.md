@@ -14,4 +14,5 @@ script : d3Intro.html, d3Intro.js
 script : flaskproject.py
 
 5) socket task. Use python to establish a communication between a client and a server simulated by 2 consoles.
-sript : server.py, client.py
+sript : server.py, client.py, slide-deck.html
+
