@@ -12,3 +12,6 @@ script : d3Intro.html, d3Intro.js
 
 4) flask task. Use flask on python to develop web inteface with multiple pagesand display JSON object. 
 script : flaskproject.py
+
+5) socket task. Use python to establish a communication between a client and a server simulated by 2 consoles.
+sript : server.py, client.py
