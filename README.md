@@ -16,3 +16,7 @@ script : flaskproject.py
 5) socket task. Use python to establish a communication between a client and a server simulated by 2 consoles.
 sript : server.py, client.py, slide-deck.html
 
+6) Java client server task. 
+script : slide-Java-client-server.html
+
+
