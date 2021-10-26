@@ -19,4 +19,7 @@ sript : server.py, client.py, slide-deck.html
 6) Java client server task. 
 script : slide-Java-client-server.html
 
+7) GRASP in JAVA. Describe GRASP principles and learn coding in java.
+script : BOOK.java, Reader.Java, Main.java
+
 
