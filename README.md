@@ -9,7 +9,7 @@ ressources:
 ###
 Week 4 homework : You will find a python program ("GetStarted.py") which contain a code using panda to manipulate a database. 
 Data are imported from the CSV file "DataHugoPires.csv". There is also a notebook to better understand the code (DataAnalysisWithPd.datalore). 
-I don't know if you can open this type of file, so I give you the link here : https://datalore.jetbrains.com/view/notebook/qXvmoFqqIDJ6P9KDdrDqIf
+I don't know if you can open this type of file, so I give you the link here : https://datalore.jetbrains.com/notebook/u3WDjk42FHhBW0UyP4Nxmn/PxXlcQCvppObH8iITVMSCy/
 
 ressources: GetStarted.py, DataHugoPires.csv, DataAnalysisWithPd.datalore
 
