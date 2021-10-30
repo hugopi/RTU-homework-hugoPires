@@ -2,9 +2,9 @@
 This repository have been created to upload my computer-Science homeworks
 
 ###
-Week 3 homework : 
+Week 3 homework : I searched for local data file with netsat command. Then I wrote them in a csv file. You will find a slide deck (task1.html) describing what Ihave done and a csv file with the result.
 
-ressources:
+ressources: task1.html, myfile.csv
 
 ###
 Week 4 homework : You will find a python program ("GetStarted.py") which contain a code using panda to manipulate a database. 
