@@ -20,6 +20,6 @@ sript : server.py, client.py, slide-deck.html
 script : slide-Java-client-server.html
 
 7) GRASP in JAVA. Describe GRASP principles and learn coding in java.
-script : BOOK.java, Reader.Java, Main.java
+script : BOOK.java, Reader.Java, Main.java, grasp.html
 
 
