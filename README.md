@@ -23,3 +23,10 @@ ressources:
 This pdf was written in LaTex on Overleaf. 
 
 ressources: SQL_Database.pdf
+
+###
+- Week 8/9 homework : I installed and work on SQLite3 with the terminal and SQLBrowser. I did all tasks requested and presented my work in the file : "SQLite introduction.pdf".This pdf was written in LaTex on Overleaf. The database and the csv file used in the work could be found in the section file.
+
+ressources: SQLite introduction.pdf, movies.db, movies.csv
+
+
