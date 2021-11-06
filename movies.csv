@@ -1,0 +1,101 @@
+movieID,name,releaseYear,genre,rating
+1,Return to Horror High,6/24/2021,Horror,7.888
+2,Islander,7/21/2021,Drama,1.626
+3,Zandalee,8/1/2021,Drama|Thriller,1.457
+4,Ranma ½: Nihao My Concubine (Ranma ½: Kessen Tôgenkyô! Hanayome o torimodose!!),7/26/2021,Action|Adventure|Comedy|Fantasy|Romance,9.161
+5,LOL (Laughing Out Loud),5/28/2021,Comedy,4.515
+6,New Kids Turbo,8/25/2021,Action|Comedy,9.508
+7,"Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean",6/23/2021,Drama,0.012
+8,Toy Story Toons: Partysaurus Rex,10/10/2021,Animation|Children|Comedy,2.517
+9,Out for a Kill,8/12/2021,Action|Crime|Thriller,0.073
+10,Cloudy with a Chance of Meatballs,5/16/2021,Animation|Children|Fantasy|IMAX,4.632
+11,Rust and Bone (De rouille et d'os),10/28/2021,Drama|Romance,1.862
+12,War,12/12/2020,Action|Thriller,3.326
+13,Take My Eyes (Te doy mis ojos),2/26/2021,Drama|Romance|Thriller,5.617
+14,"Autobiography of Miss Jane Pittman, The",3/15/2021,Drama,0.363
+15,American Pie 2,11/30/2020,Comedy,4.078
+16,Performance,6/25/2021,Crime|Drama|Thriller,0.676
+17,Rent-a-Cat,12/13/2020,Comedy|Drama,9.857
+18,Pete Seeger: The Power of Song,4/15/2021,Documentary,2.073
+19,Mon oncle d'Amérique,3/5/2021,Drama,8.024
+20,Tonight and Every Night,5/28/2021,Musical,5.656
+21,The Russian Novel,3/7/2021,Drama,4.701
+22,Deadly Blessing,10/24/2021,Horror,9.043
+23,"Lost Thing, The",6/1/2021,Animation|Drama|Fantasy,7.039
+24,Looper,12/24/2020,Action|Crime|Sci-Fi,6.142
+25,Light Years Away,9/27/2021,Drama,4.652
+26,Blackout,12/4/2020,Drama,2.059
+27,Five Angles on Murder,12/20/2020,Mystery,0.22
+28,And Then Came Lola,9/24/2021,Comedy|Drama|Romance,6.616
+29,Jonathan Livingston Seagull,9/28/2021,Drama,5.674
+30,"New World, The",2/6/2021,Adventure|Drama|Romance,9.439
+31,Hick,9/27/2021,Drama|Romance,1.154
+32,"Match King, The",9/25/2021,Drama,6.464
+33,Good Copy Bad Copy,3/26/2021,Documentary,0.109
+34,Prime Suspect: The Lost Child,8/8/2021,Drama|Mystery,0.972
+35,I Woke Up Early the Day I Died,6/9/2021,Comedy|Crime|Thriller,3.453
+36,Wild Hearts Can't Be Broken,8/5/2021,Drama|Romance,5.282
+37,Topper Returns,6/26/2021,Comedy|Fantasy|Mystery|Romance,1.259
+38,Roman,7/14/2021,Drama|Thriller,4.259
+39,Soul Assassin,7/20/2021,Action|Crime|Thriller,1.498
+40,Tanguy,4/7/2021,Comedy,4.806
+41,This Thing With Sarah,5/30/2021,Comedy|Drama|Romance,4.079
+42,Brave New World,4/30/2021,Sci-Fi,2.963
+43,Workingman's Death,8/8/2021,Documentary,4.009
+44,Cop Out,8/18/2021,Action|Comedy|Crime,2.547
+45,Kings & Queen (Rois et reine),9/8/2021,Comedy|Drama,7.204
+46,Love Exposure,10/20/2021,Action|Comedy|Drama|Romance,4.153
+47,Me & Isaac Newton,1/20/2021,Documentary,7.297
+48,My Best Enemy (Mi mejor enemigo),1/5/2021,Drama|War,4.758
+49,Hitman Hart: Wrestling with Shadows,8/10/2021,Documentary,6.087
+50,Terribly Happy (Frygtelig lykkelig),10/2/2021,Crime|Drama|Film-Noir|Thriller,8.323
+51,Day and Night (Le jour et la nuit),3/18/2021,Drama,9.639
+52,Bad Milo (Bad Milo!),5/6/2021,Comedy|Horror,3.616
+53,Tucker: The Man and His Dream,7/20/2021,Drama,9.72
+54,"Thousand Cuts, A",10/17/2021,Thriller,1.781
+55,Feast of July,6/20/2021,Drama,3.379
+56,Pontypool,12/10/2020,Horror|Thriller,6.529
+57,No Time For Sergeants,11/7/2020,Adventure|Comedy|War,4.32
+58,"Ghostmaker, The (Box of Shadows)",10/28/2021,Horror|Sci-Fi|Thriller,6.394
+59,"Glass-blower's Children, The (Glasblåsarns barn)",6/29/2021,Children|Drama,4.186
+60,"Misfits, The",3/19/2021,Comedy|Drama|Romance|Western,4.984
+61,"Creeping Flesh, The",4/12/2021,Horror|Sci-Fi,9.834
+62,"Fast and the Furious, The",8/15/2021,Action|Crime|Thriller,3.769
+63,Blindman,8/10/2021,Western,3.131
+64,"King of Ping Pong, The (Ping-pongkingen)",3/5/2021,Drama,6.555
+65,Badman's Territory,8/20/2021,Action|Drama|Western,2.041
+66,"Four Feathers, The",5/25/2021,Adventure|War,0.384
+67,"Many Adventures of Winnie the Pooh, The",7/27/2021,Animation|Children|Musical,2.005
+68,Dragon Ball Z the Movie: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon bôru Z: Kono yo de ichiban tsuyoi yatsu),4/1/2021,Action|Adventure|Animation|Sci-Fi|Thriller,4.265
+69,Raja,9/11/2021,Drama,4.659
+70,Dragon ball Z 04: Lord Slug,12/28/2020,Animation|Children,1.253
+71,Barbie: A Fashion Fairytale,9/17/2021,Animation|Children,0.686
+72,"Ring, The",10/9/2021,Horror|Mystery|Thriller,7.123
+73,"Cobweb, The",5/7/2021,Drama,0.431
+74,Airport,9/26/2021,Drama,2.872
+75,Bounce,9/4/2021,Drama|Romance,4.734
+76,Cousin Angelica (La prima Angélica),12/12/2020,Drama,5.193
+77,"Métamorphose des cloportes, La",2/19/2021,Comedy|Crime,8.177
+78,Stille Nacht I: Dramolet,10/31/2021,Animation,2.169
+79,Stupid Boy (Garçon stupide),9/6/2021,Drama,9.533
+80,Vanishing on 7th Street,3/23/2021,Horror|Mystery|Thriller,1.757
+81,Make Believe,1/1/2021,Documentary,5.77
+82,"Glamorous Life of Sachiko Hanai, The (Hatsujô kateikyôshi: sensei no aijiru)",11/5/2020,Action|Comedy|Drama|Fantasy|Mystery|Sci-Fi|War,3.953
+83,"Adventures of Pinocchio, The",9/6/2021,Adventure|Children,9.901
+84,Sadie Thompson,7/30/2021,Drama,4.461
+85,Thérèse,3/15/2021,Drama,1.521
+86,Patriot Games,1/30/2021,Action|Thriller,1.075
+87,Kadosh,5/30/2021,Drama,3.518
+88,eXistenZ,9/4/2021,Action|Sci-Fi|Thriller,8.79
+89,Parineeta,8/30/2021,Drama|Musical|Romance,2.821
+90,Don't Tell Mom the Babysitter's Dead,5/6/2021,Comedy,8.203
+91,Children of Hiroshima (Gembaku no ko),10/28/2021,Drama|War,3.628
+92,Priceless (Hors de prix),9/23/2021,Comedy|Romance,6.892
+93,"Savage Innocents, The",8/22/2021,Adventure|Crime|Drama,1.011
+94,El Escarabajo de Oro,8/6/2021,(no genres listed),1.852
+95,Holy Smoke,4/3/2021,Comedy|Drama,2.109
+96,Kung Fu Panda Holiday Special,9/6/2021,Animation|Children|Comedy,8.28
+97,King Solomon's Mines,5/4/2021,Adventure|Comedy,5.059
+98,Karan Arjun,6/24/2021,Drama,0.262
+99,Cinderella,6/18/2021,Adventure|Children|Drama|Sci-Fi,7.044
+100,Europa Report,7/6/2021,Sci-Fi|Thriller,0.845
