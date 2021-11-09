@@ -22,4 +22,6 @@ script : slide-Java-client-server.html
 7) GRASP in JAVA. Describe GRASP principles and learn coding in java.
 script : BOOK.java, Reader.Java, Main.java, grasp.html
 
+8) Elegant Object. I started to read the book and take notes about it. I created a slide where I describe what I understood. This slide deck will be updated each week with what I read.
+script : elegantObject.html
 
